@@ -1,7 +1,7 @@
 {
   "name": "todolist",
   "version": "0.1.0",
-  "homepage": "https://github.com/hamid2117/todlist.git",
+  "homepage": "https://hamid2117.github.io/todlist/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
